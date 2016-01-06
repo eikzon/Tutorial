@@ -1,9 +1,7 @@
 <?PHP
-
 function editer(){
-    return '55';
+    $text = '123456';
+    return $text; 
 }
-
 echo editer();
-
 ?>
